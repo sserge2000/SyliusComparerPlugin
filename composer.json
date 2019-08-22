@@ -1,5 +1,5 @@
 {
-    "name": "locastic/sylius-comparer-plugin",
+    "name": "sserge2000/sylius-comparer-plugin",
     "type": "sylius-plugin",
     "description": "Sylius plugin for comparing different products and allowing user to decide which product to put further in cart.",
     "license": "MIT",
